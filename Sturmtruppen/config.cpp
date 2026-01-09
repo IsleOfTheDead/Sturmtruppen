@@ -33,7 +33,7 @@ class CfgMods
       class engineScriptModule
       {
         value="";
-        files[]={ "Template/scripts/1_core" };
+        files[]={ "Sturmtruppen/scripts/1_core" };
       };
     }
   };
