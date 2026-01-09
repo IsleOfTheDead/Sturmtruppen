@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/IsleOfTheDead/Sturmtruppen/main/images/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/IsleOfTheDead/Sturmtruppen/master/.github/images/banner.png" width="100%" />
 
 # Sturmtruppen
 
