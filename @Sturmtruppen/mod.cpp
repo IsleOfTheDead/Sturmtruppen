@@ -1,0 +1,9 @@
+name="Sturmtruppen";
+tooltip="Sturmtruppen";
+overview="";
+picture="Sturmtruppen/data/picture.paa";
+logoSmall="Sturmtruppen/data/logoSmall.paa";
+logo="Sturmtruppen/data/logo.paa";
+action="https://steamcommunity.com/sharedfiles/filedetails/?id=3516909894";
+author="moldypenguins";
+version="1.2";
