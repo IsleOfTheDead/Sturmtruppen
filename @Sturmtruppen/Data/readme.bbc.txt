@@ -15,4 +15,4 @@ During World War I, German forces referred to Canadian soldiers as "stormtrooper
 [h2]LEGAL:[/h2]
 [b]NO UNPACKING/REPACKING/REPUBLISHING.[/b]
 Copyright ©2025-2026 Isle of The Dead. All Rights Reserved.
-This item is not authorized for posting on Steam, except under the Steam account [url=https://steamcommunity.com/id/SteamId]SteamName[/url]
+This item is not authorized for posting on Steam, except under the Steam account [url=https://steamcommunity.com/id/moldypenguins]moldypenguins[/url]
