@@ -18,7 +18,7 @@ Contains:
 ## Contact
 
 <a href="https://discord.gg/isleofthedead">
-<img src="https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png" width="250" />
+<img src="https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png" />
 </a>
 
 ## Licenses
