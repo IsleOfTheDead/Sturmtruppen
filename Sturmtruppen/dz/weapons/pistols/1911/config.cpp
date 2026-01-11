@@ -14,8 +14,8 @@ class CfgWeapons
 	class Sturmtruppen1911: Engraved1911
 	{
 		scope=2;
-		displayName="$STR_cfgweapons_sturmtruppen19110";
-		descriptionShort="$STR_cfgweapons_sturmtruppen19111";
+		displayName="$STR_CfgWeapons_Sturmtruppen19110";
+		descriptionShort="$STR_CfgWeapons_Sturmtruppen19111";
 		weight=1000;
 		barrelArmor=1.7;
 		attachments[]={ "pistolFlashlight", "pistolMuzzle" };
