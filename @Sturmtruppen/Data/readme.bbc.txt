@@ -2,7 +2,7 @@
 During World War I, German forces referred to Canadian soldiers as "stormtroopers" (sturmtruppen) due to their aggressive and effective fighting style, particularly after the Battle of the Somme. This term, originally a German military designation, was applied to the Canadian Corps in recognition of their skill and bravery on the front lines.
 
 [u]Contains:[/u]
-- Sturmtruppen Colt 1911
+- Sturmtruppen Kolt 1911
 - more to come...
 
 [h2]INSTALLATION:[/h2]

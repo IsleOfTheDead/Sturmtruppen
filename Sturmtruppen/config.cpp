@@ -5,7 +5,7 @@ class CfgPatches
     units[]={};
     weapons[]={};
     requiredVersion=0.1;
-    requiredAddons[]={ "DZ_Data" };
+    requiredAddons[]={ "DZ_Data", "DZ_Scripts" };
   };
 };
 
@@ -18,15 +18,15 @@ class CfgMods
     hidePicture=0;
     extra=0;
     name="Sturmtruppen";
-    picture="Sturmtruppen/data/picture.paa";
-    logoSmall="Sturmtruppen/data/logoSmall.paa";
-    logo="Sturmtruppen/data/logo.paa";
-    logoOver="Sturmtruppen/data/logo.paa";
+    picture="Sturmtruppen\data\picture.paa";
+    logoSmall="Sturmtruppen\data\logoSmall.paa";
+    logo="Sturmtruppen\data\logo.paa";
+    logoOver="Sturmtruppen\data\logo.paa";
     action="https://steamcommunity.com/sharedfiles/filedetails/?id=3516909894";
     credits="moldypenguins";
     author="moldypenguins";
     authorID = "76561198312711389";
-    version="1.2";
+    version="1.3";
     type="mod";
     dependencies[]={};
     class defs
@@ -34,7 +34,7 @@ class CfgMods
       class engineScriptModule
       {
         value="";
-        files[]={ "Sturmtruppen/scripts/1_core" };
+        files[]={ "Sturmtruppen\scripts\1_core" };
       };
     }
   };

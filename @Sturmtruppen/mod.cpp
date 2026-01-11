@@ -1,10 +1,10 @@
 name="Sturmtruppen";
 tooltip="Sturmtruppen";
 overview="Canada inspired equipment, weapons, items.";
-picture="Sturmtruppen/data/picture.paa";
-logoSmall="Sturmtruppen/data/logoSmall.paa";
-logo="Sturmtruppen/data/logo.paa";
-logoOver="Sturmtruppen/data/logo.paa";
+picture="Sturmtruppen\data\picture.paa";
+logoSmall="Sturmtruppen\data\logoSmall.paa";
+logo="Sturmtruppen\data\logo.paa";
+logoOver="Sturmtruppen\data\logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3516909894";
 author="moldypenguins";
-version="1.2";
+version="1.3";

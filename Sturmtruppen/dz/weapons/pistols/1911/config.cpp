@@ -8,7 +8,7 @@ class CfgPatches
 		requiredAddons[]={ "DZ_Data", "DZ_Pistols" };
 	};
 };
-class cfgWeapons
+class CfgWeapons
 {
 	class Engraved1911;
 	class Sturmtruppen1911: Engraved1911
@@ -22,7 +22,7 @@ class cfgWeapons
 		magazines[]={ "Mag_1911_7Rnd" };
 		magazineSwitchTime=0.19999999;
 		swayModifier[]={1.3,1.3,0.5};
-		hiddenSelectionsTextures[]={ "Sturmtruppen/DZ/weapons/pistols/1911/data/1911_sturmtruppen_co.paa" };
+		hiddenSelectionsTextures[]={ "Sturmtruppen\dz\weapons\pistols\1911\data\1911_sturmtruppen_co.paa" };
 		class DamageSystem
 		{
 			class GlobalHealth
