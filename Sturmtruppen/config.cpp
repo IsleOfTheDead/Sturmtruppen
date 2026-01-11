@@ -21,6 +21,7 @@ class CfgMods
     picture="Sturmtruppen/data/picture.paa";
     logoSmall="Sturmtruppen/data/logoSmall.paa";
     logo="Sturmtruppen/data/logo.paa";
+    logoOver="Sturmtruppen/data/logo.paa";
     action="https://steamcommunity.com/sharedfiles/filedetails/?id=3516909894";
     credits="moldypenguins";
     author="moldypenguins";
