@@ -26,16 +26,12 @@ class CfgMods
     credits="moldypenguins";
     author="moldypenguins";
     authorID = "76561198312711389";
-    version="1.3";
+    version="1.4";
     type="mod";
     dependencies[]={};
     class defs
     {
-      class engineScriptModule
-      {
-        value="";
-        files[]={ "Sturmtruppen\scripts\1_core" };
-      };
+      class engineScriptModule { value=""; files[]={ "Sturmtruppen\scripts\1_core" }; };
     }
   };
 };

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- Sturmtruppen -->
 <types>
-  <type name="SturmTruppen1911">
+  <type name="Sturmtruppen1911">
     <nominal>5</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>

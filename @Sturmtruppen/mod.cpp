@@ -7,4 +7,4 @@ logo="Sturmtruppen\data\logo.paa";
 logoOver="Sturmtruppen\data\logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3516909894";
 author="moldypenguins";
-version="1.3";
+version="1.4";
